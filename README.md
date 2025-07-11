@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about automating processes using CI/CD workflows and implementing automated management features such as performance monitoring, diagnostics, failover, and availability capabilities with over 7+ years of professional experience in both onsite and remote settings. 🎯
+I am [Santosh Kumar](https://www.linkedin.com/in/santosh-bsk/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about automating processes using CI/CD workflows and implementing automated management features such as performance monitoring, diagnostics, failover, and availability capabilities with over 1+ years of professional experience in both onsite and remote settings. 🎯
 
 <p align="center">
 <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
@@ -75,9 +75,7 @@ I am [Rajat Chauhan](https://www.linkedin.com/in/chauhanrajat-work/), a DevOps E
 ### <p align="center">📫 How to reach me? </p>
 
 <div align="center">
-  <a href="mailto: chauhanrajat.work@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/chauhanrajat-work/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /> </a>
-  <a href="https://chauhanrajatwork.hashnode.dev/"><img src="https://img.icons8.com/?size=77&id=HnB8zGOh5xgd&format=png" width="60" height="50" alt="medium logo"  /> </a>
-  <a href="https://www.instagram.com/rcjerry/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="50" alt="instagram logo"  /> </a>
-  <a href="https://t.me/devopsjerry"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="60" height="50" alt="telegram logo"  /> </a>
+  <a href="mailto: bsantosh.kgl@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="50" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/santosh-bsk/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="50" alt="linkedin logo"  /> </a>
+ 
 </div>
